@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+    font-family: Poppins, sans-serif;
+}
+
